@@ -181,12 +181,9 @@ color: var(--accent-color);
     letter-spacing: 0.03em;
 }
 
-/* .examples .link {
-text-decoration: none;
-} */
 .list .button {
     color: var(--title-text-color);
-    background-color: var(background-color);
+    background-color: var(--background-color);
     font-weight: 500;
     font-size: 16px;
     line-height: 1.62;
